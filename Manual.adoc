@@ -1,0 +1,50 @@
+:doctype: book
+:author: Маркиев Владимир
+:sectids:
+:sectanchors:
+:sectlinks:
+:sectnums:
+:sectnumlevels: 5
+:toc:
+:toclevels: 5
+:toc-title: Содержание:
+:icons: font
+:imagesdir: C:\Users\Vladimir\Desktop\Manual
+:mc: MateCat
+:gcp: Google Cloud Platform
+:gcc: Google Cloud Console
+:any: любое, хоть "Единороги скачут по радуге", если потом это имя не вызовет путаницу
+
+= Как переводить тексты при помощи {mc}
+
+[preface]
+include::intro.adoc[]
+
+include::whyGoogle.adoc[]
+
+== Настройка Google Cloud Platform
+
+include::register.adoc[]
+
+include::createProj.adoc[]
+
+include::createCreds.adoc[]
+
+include::inDoubt.adoc[]
+
+include::addCreds.adoc[]
+
+== Настройка {mc}
+
+include::startWithMC.adoc[]
+
+include::addMTtoMC.adoc[]
+
+== Перевод текста при помощи {mc}
+
+include::setupMCproj.adoc[]
+
+include::translateWithMC.adoc[]
+
+[preface]
+include::theEnd.adoc[]
