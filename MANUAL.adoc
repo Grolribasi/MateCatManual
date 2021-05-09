@@ -10,7 +10,7 @@
 :toclevels: 5
 :toc-title: Содержание:
 :icons: font
-:imagesdir: C:\Users\Vladimir\Desktop\Manual
+:imagesdir: ./Manual
 :mc: MateCat
 :gcp: Google Cloud Platform
 :gcc: Google Cloud Console
