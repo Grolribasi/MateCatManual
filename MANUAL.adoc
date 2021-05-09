@@ -1,5 +1,6 @@
 :doctype: book
 :author: Маркиев Владимир
+:email: vladimir.markiev@gmail.com
 :sectids:
 :sectanchors:
 :sectlinks:
