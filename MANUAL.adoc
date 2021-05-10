@@ -15,6 +15,7 @@
 :gcp: Google Cloud Platform
 :gcc: Google Cloud Console
 :any: любое, хоть "Единороги скачут по радуге", если потом это имя не вызовет путаницу
+:figure-caption: Изображение
 
 = Как переводить тексты при помощи {mc}
 
